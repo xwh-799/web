@@ -1,12 +1,11 @@
 <template>
   <div>
-    <router-view></router-view>
+    内容
   </div>
 </template>
 
-
 <script setup lang="ts">
-console.log(import.meta.env.VITE_API)
+
 </script>
 
 <style scoped lang="less">
